@@ -17,7 +17,7 @@ A Python-based To-Do list app with a GUI using Tkinter. It allows users to add, 
 
 ## How to Run
 1. Clone the repository:  
-   `git clone https://github.com/yourusername/todo-list-app.git`
+   `git clone https://github.com/Shehab13x/todo-list-app.git`
    
 2. Install dependencies:  
    `pip install -r requirements.txt`
